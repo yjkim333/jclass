@@ -55,7 +55,7 @@ public class Ja0115_13 {
 		
 		// 맞는 번호 확인
 		int count = 0; // 정답개수
-		int[] answer = new int[count]; // 정답저장
+		int[] answer = new int[6]; // 정답저장
 		
 		for(int i=0;i<lotto.length;i++) {
 			for(int j=0;j<lotto.length;j++) {
